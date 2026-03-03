@@ -1,6 +1,6 @@
 # Messanger (Next.js + Redux + TypeScript + Tailwind)
 
-## 🛠 Стек технологій
+##Stack
 
 - **Framework:** Next.js (App Router)
 - **Language:** TypeScript
